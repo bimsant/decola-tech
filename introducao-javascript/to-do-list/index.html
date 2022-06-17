@@ -1,14 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Pacifico&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="assets/css/styles.css" />
     <script src="assets/js/scripts.js"></script>
-    <title> To-do List</title>
+    <title> to-do list </title>
 </head>
+
 <body>
-    
+    <div id="formulario">
+        <div id="date"> 
+            <p> __ / __ / __</p>
+        </div>
+        <h1> my to-do list: </h1>
+        <p> Aqui está a lista de coisas à fazer. </p>
+        <p>Escreva na linha abaixo e clique em <b> adicionar </b> para submeter algo na lista 
+                e depois marque o checkbox para tirar.</p>
+        <form method="POST">
+            <label> Digite aqui:
+                <input type="text" name="add"/>
+            </label>
+            <button> Adicionar </button>
+        </form>
+        
+
+
+    </div>
 </body>
+
 </html>

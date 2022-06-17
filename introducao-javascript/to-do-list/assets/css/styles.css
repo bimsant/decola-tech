@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    border-bottom: 2px solid rgb(105, 119, 248);
+}
+
+
+body {
+    margin: 0px;
+    font-family: 'Gloria Hallelujah', cursive;
+    border-bottom: 0px;
+    padding: 15px;
+    background-color: rgb(253, 253, 216);
+}
+
+button {
+    margin-left: 40%;
+    width: 20%;
+    font-size: 14px;
+    font-family: 'Gloria Hallelujah', cursive;
+    border: 2px solid #000;
+    background-color: rgb(253, 253, 216);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+input {
+    width: 91.6%;
+    outline: 0;
+    border: 0px;
+    background-color: rgb(253, 253, 216);
+}
+
+#formulario {
+    border-left: 2px solid #f00;
+    width: 100%;
+    padding-left: 12px;
+    border-bottom: 0px solid #fff;
+}
+
+h1 {
+    text-align: center;
+}
+
+#date {
+    border-bottom: 0px;
+    width: 100px;
+    height: max-content;
+    border-radius: 30px;
+}
+
