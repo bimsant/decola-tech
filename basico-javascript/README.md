@@ -1,8 +1,8 @@
-# Sintaxe Básica do JavaScript
+# Sintaxe Básica do JavaScript :happy:
 
 Olá! :v:
 
-Esse repositório está sendo utilizada para armazenar os códigos do curso de Sintaxe básica do JavaScript, feito pela instrutora Diana Martine.
+Esse repositório está sendo utilizada para armazenar os meus códigos desenvolvidos no curso de Sintaxe básica do JavaScript, feito pela instrutora Diana Martine.
 
 Aqui você vai encontrar os projetos:
 
