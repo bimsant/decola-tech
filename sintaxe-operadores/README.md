@@ -4,7 +4,7 @@ Esse repositório está sendo utilizada para armazenar os meus códigos desenvol
 
 Aqui você vai encontrar os projetos:
 
-+ Operadores :pluss:.
++ Operadores :heavy_plus_sign:.
 
 
 
