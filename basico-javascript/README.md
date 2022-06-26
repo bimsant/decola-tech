@@ -1,4 +1,4 @@
-# Sintaxe Básica do JavaScript :happy:
+# Sintaxe Básica do JavaScript 
 
 Olá! :v:
 
